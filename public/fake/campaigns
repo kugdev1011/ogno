@@ -1,0 +1,346 @@
+{
+    "1": {
+        "campaigns": [
+            {
+                "name": "Summer Sale",
+                "progress": 75,
+                "status": "Ongoing",
+                "todos": [
+                    "Design new banners",
+                    "Update product listings",
+                    "Email campaign setup",
+                    "Social media promotion",
+                    "Finalize campaign budget"
+                ]
+            },
+            {
+                "name": "Winter Fest",
+                "progress": 40,
+                "status": "Planning",
+                "todos": [
+                    "Initial planning",
+                    "Budget allocation",
+                    "Hire additional staff",
+                    "Market research",
+                    "Create promotional content"
+                ]
+            },
+            {
+                "name": "Spring Launch",
+                "progress": 60,
+                "status": "Ongoing",
+                "todos": [
+                    "Product lineup finalization",
+                    "Landing page development",
+                    "Partnership outreach",
+                    "Inventory check",
+                    "Launch event planning"
+                ]
+            },
+            {
+                "name": "Back to School",
+                "progress": 90,
+                "status": "Completed",
+                "todos": [
+                    "School supplies stock",
+                    "Advertising to educational institutions",
+                    "Discount pricing setup",
+                    "Staff training for sales",
+                    "Post-campaign analysis"
+                ]
+            },
+            {
+                "name": "Black Friday",
+                "progress": 30,
+                "status": "Planning",
+                "todos": [
+                    "Early bird deals setup",
+                    "Website capacity testing",
+                    "Hiring seasonal employees",
+                    "Collaborations with influencers",
+                    "Email marketing campaigns"
+                ]
+            }
+        ]
+    },
+    "2": {
+        "campaigns": [
+            {
+                "name": "Tech Expo",
+                "progress": 50,
+                "status": "Planning",
+                "todos": [
+                    "Booth design and setup",
+                    "Product demos preparation",
+                    "Schedule guest speakers",
+                    "Arrange travel and accommodations",
+                    "Launch pre-event marketing"
+                ]
+            },
+            {
+                "name": "Summer Tech Giveaway",
+                "progress": 65,
+                "status": "Ongoing",
+                "todos": [
+                    "Finalize giveaway items",
+                    "Set up online entry system",
+                    "Collaborate with tech bloggers",
+                    "Social media engagement",
+                    "Monitor and adjust ad spend"
+                ]
+            },
+            {
+                "name": "New Year Promotion",
+                "progress": 80,
+                "status": "Ongoing",
+                "todos": [
+                    "Update e-commerce listings",
+                    "Email marketing blasts",
+                    "Loyalty program promotion",
+                    "Staff training for customer queries",
+                    "Analytics tracking setup"
+                ]
+            }
+        ]
+    },
+    "3": {
+        "campaigns": [
+            {
+                "name": "Eco-Friendly Line Launch",
+                "progress": 70,
+                "status": "Ongoing",
+                "todos": [
+                    "Product sustainability report",
+                    "Influencer partnerships",
+                    "Eco-friendly packaging design",
+                    "Develop educational content",
+                    "Plan social media campaign"
+                ]
+            },
+            {
+                "name": "Holiday Season Sale",
+                "progress": 40,
+                "status": "Planning",
+                "todos": [
+                    "Inventory preparation",
+                    "Seasonal website update",
+                    "Set up holiday discounts",
+                    "Plan holiday email series",
+                    "Organize charity event"
+                ]
+            },
+            {
+                "name": "Annual Customer Survey",
+                "progress": 25,
+                "status": "Planning",
+                "todos": [
+                    "Survey design",
+                    "Incentive plan for participants",
+                    "Distribution via email and social media",
+                    "Data collection setup",
+                    "Analysis tools selection"
+                ]
+            }
+        ]
+    },
+    "4": {
+        "campaigns": [
+            {
+                "name": "Fitness Challenge",
+                "progress": 60,
+                "status": "Ongoing",
+                "todos": [
+                    "Develop mobile app features",
+                    "Collaborate with fitness influencers",
+                    "Organize virtual events",
+                    "Promotional content creation",
+                    "Community engagement strategies"
+                ]
+            },
+            {
+                "name": "Health & Wellness Webinar Series",
+                "progress": 35,
+                "status": "Planning",
+                "todos": [
+                    "Speaker selection",
+                    "Webinar platform setup",
+                    "Marketing through email and social",
+                    "Content topic planning",
+                    "Technical rehearsals"
+                ]
+            },
+            {
+                "name": "Nutrition Product Line Expansion",
+                "progress": 85,
+                "status": "Completed",
+                "todos": [
+                    "Market research on new products",
+                    "Formulation and testing",
+                    "Branding and packaging design",
+                    "Launch strategy development",
+                    "Post-launch customer feedback"
+                ]
+            }
+        ]
+    },
+    "5": {
+        "campaigns": [
+            {
+                "name": "Summer Outdoor Adventure Gear Sale",
+                "progress": 40,
+                "status": "In Progress",
+                "todos": [
+                    "Curate outdoor gear collection",
+                    "Design promotional banners",
+                    "Create engaging social media content",
+                    "Implement email marketing campaign",
+                    "Collaborate with influencers for reviews"
+                ]
+            },
+            {
+                "name": "Tech Innovation Expo",
+                "progress": 10,
+                "status": "Planning",
+                "todos": [
+                    "Identify keynote speakers",
+                    "Secure event venue and logistics",
+                    "Design booth layout and promotional materials",
+                    "Coordinate media coverage",
+                    "Create pre-event buzz on social media"
+                ]
+            },
+            {
+                "name": "Back-to-School Campaign",
+                "progress": 5,
+                "status": "Planning",
+                "todos": [
+                    "Research popular back-to-school trends",
+                    "Develop targeted promotions for students and parents",
+                    "Collaborate with schools for partnerships",
+                    "Create engaging content for educational influencers",
+                    "Plan online and in-store events"
+                ]
+            }
+        ]
+    },
+    "6": {
+        "campaigns": [
+            {
+                "name": "Holiday Gift Guide",
+                "progress": 15,
+                "status": "Planning",
+                "todos": [
+                    "Identify trending holiday gifts",
+                    "Curate a diverse gift selection",
+                    "Design visually appealing gift guide",
+                    "Implement email and social media promotion",
+                    "Collaborate with influencers for gift recommendations"
+                ]
+            },
+            {
+                "name": "Wellness Month",
+                "progress": 5,
+                "status": "Planning",
+                "todos": [
+                    "Select wellness products and services",
+                    "Design wellness-themed marketing materials",
+                    "Create social media challenges",
+                    "Collaborate with health influencers",
+                    "Plan in-store wellness events"
+                ]
+            },
+            {
+                "name": "Customer Appreciation Week",
+                "progress": 2,
+                "status": "Planning",
+                "todos": [
+                    "Design special discounts for loyal customers",
+                    "Create personalized thank-you emails",
+                    "Plan exclusive in-store events",
+                    "Launch a social media gratitude campaign",
+                    "Prepare customer appreciation gifts"
+                ]
+            }
+        ]
+    },
+    "7": {
+        "campaigns": [
+            {
+                "name": "Eco-Friendly Product Launch",
+                "progress": 8,
+                "status": "Planning",
+                "todos": [
+                    "Research sustainable product options",
+                    "Design eco-friendly packaging",
+                    "Create an educational campaign on environmental impact",
+                    "Collaborate with eco-conscious influencers",
+                    "Plan a virtual launch event"
+                ]
+            },
+            {
+                "name": "Summer Fitness Challenge",
+                "progress": 3,
+                "status": "Planning",
+                "todos": [
+                    "Develop fitness challenge guidelines",
+                    "Create engaging workout content",
+                    "Collaborate with fitness influencers",
+                    "Launch a social media fitness challenge",
+                    "Offer special discounts on fitness products"
+                ]
+            },
+            {
+                "name": "Digital Learning Workshop Series",
+                "progress": 0,
+                "status": "Planning",
+                "todos": [
+                    "Identify relevant workshop topics",
+                    "Select expert speakers",
+                    "Create promotional materials for workshops",
+                    "Plan online registration process",
+                    "Promote the workshops through various channels"
+                ]
+            }
+        ]
+    },
+    "8": {
+        "campaigns": [
+            {
+                "name": "Fitness Challenge",
+                "progress": 60,
+                "status": "Ongoing",
+                "todos": [
+                    "Develop mobile app features",
+                    "Collaborate with fitness influencers",
+                    "Organize virtual events",
+                    "Promotional content creation",
+                    "Community engagement strategies"
+                ]
+            },
+            {
+                "name": "Health & Wellness Webinar Series",
+                "progress": 35,
+                "status": "Planning",
+                "todos": [
+                    "Speaker selection",
+                    "Webinar platform setup",
+                    "Marketing through email and social",
+                    "Content topic planning",
+                    "Technical rehearsals"
+                ]
+            },
+            {
+                "name": "Nutrition Product Line Expansion",
+                "progress": 85,
+                "status": "Completed",
+                "todos": [
+                    "Market research on new products",
+                    "Formulation and testing",
+                    "Branding and packaging design",
+                    "Launch strategy development",
+                    "Post-launch customer feedback"
+                ]
+            }
+        ]
+    }
+}
